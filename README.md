@@ -1,2 +1,1 @@
-# Personal-Java
-Personal repo for working with Java
+    This project involves a vehicle showroom management system that utilizes Java Object-Oriented Programming. There is an abstract base class named Vehicle with four subclasses including Car, Truck, MotorBike and SUV. There are also three enums named FuelType, StartMechanism and VehicleColor. The VehicleManager class manages the inventory and performs various tasks such as reading the CSV file that contains the vehicle information, displaying the information of the vehicles/vehicle types, altering the information in the CSV, determining the number of vehicles by type, and calculating the fuel efficiency and maintenance cost for each vehicle and identifying which vehicle has the highest and lowest respectively.
